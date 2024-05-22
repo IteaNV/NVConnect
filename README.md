@@ -1,4 +1,4 @@
-# NVBiz
+# NVConnect
 Plugin développé pour le jeu ***NovaLife***, rajoutant un message à la connexion au serveur.
 
 # Fonctionnement
